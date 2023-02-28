@@ -1,3 +1,7 @@
+# 电信余量
+
+[查看文档](https://plum-spectacles-70f.notion.site/7e96fde83576451c9f9c6ab9a95d1759)
+
 ## 免责声明
 
 本仓库或本仓库相关的仓库, 以下简称为本仓库.
