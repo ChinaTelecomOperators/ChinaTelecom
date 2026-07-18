@@ -1,5 +1,17 @@
 # 电信余量
 
+由于原作者失联 现在的维护者没有权限修改文档
+
+凑活着看吧...
+
+登录说明:
+
+> 网站1：https://commissions-yields-exception-personally.trycloudflare.com
+> 
+> 网站2：https://telecom.nufe.ccwu.cc
+> 
+> 先打开网站短信登录授权设备，复制设备id设置环境变量DeviceId='复制的设备id'，更新脚本再运行
+
 [查看文档](https://plum-spectacles-70f.notion.site/7e96fde83576451c9f9c6ab9a95d1759)
 
 ## 免责声明
